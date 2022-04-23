@@ -4,7 +4,6 @@ import Movie from './Movie'
 import Filter from './Filter'
 import {motion, AnimatePresence} from 'framer-motion'
 
-// https://www.youtube.com/watch?v=nyg5Lpl6AiM
 
 function App() {
 
