@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Filter Movie App Description
+
+The https://developers.themoviedb.org/3 API is used. Framer-motion was created by adding the npm package and it filters by movie genres.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
