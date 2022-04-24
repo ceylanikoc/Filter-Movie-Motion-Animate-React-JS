@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The https://developers.themoviedb.org/3 API is used. Framer-motion was created by adding the npm package and it filters by movie genres.
 
-
+<img src="/ceylanikoc/Filter-Movie-Motion-Animate-React-JS/blob/master/filtermovie.gif?raw=true" alt="filtermovie.gif">
 
 ## Available Scripts
 
